@@ -1,3 +1,7 @@
+"""15-05-2023
+APP para verificar valores de acciones/ventas
+Jeyfrey Calero"""
+
 import pyttsx3
 
 

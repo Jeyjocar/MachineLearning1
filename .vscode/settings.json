@@ -6,6 +6,7 @@
         "pyplot",
         "pyttsx",
         "streamlit",
+        "valores",
         "yfinance"
     ]
 }
